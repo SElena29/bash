@@ -1,0 +1,7 @@
+echo "Start";
+echo "This is a calendar:"
+cal -y
+echo "And this is a current path:"
+pwd
+echo "Have a nice day!"
+
