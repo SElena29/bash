@@ -1,0 +1,10 @@
+Cat 1 3445
+Cat 1 545345
+Dog 4 efewfw
+Frog 3 qwdwqd
+Cat 1 5435
+Cat 4 ewf
+Frog 3 efwefwe
+Frog 1 fewfewf
+Cat 2 4234234
+Dog 7 dqwdwq
